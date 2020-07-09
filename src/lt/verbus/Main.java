@@ -3,6 +3,6 @@ package lt.verbus;
 public class Main {
 
     public static void main(String[] args) {
-	// for init commit
+        System.out.println((new Input().readNumber()));
     }
 }
